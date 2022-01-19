@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @briannlongzhao
-- 👀 I’m interested in 🦈
-- 🌱 I’m currently learning 🦈
-- 💞️ I’m looking to collaborate on 🦈
-- 📫 How to reach me briannlongzhao@gmail.com
+- 👋 @briannlongzhao
+- 📫 briannlongzhao@gmail.com
+- 📫 briannlz@usc.edu
+
+Most repos for course assignments and projects are not public, please contact by email 🧐
+
+
 
 <!---
 briannlongzhao/briannlongzhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
