@@ -2,7 +2,6 @@
 - 📫 briannlongzhao@gmail.com
 - 📫 briannlz@usc.edu
 
-Most repos for course assignments and projects are not public, please contact by email 🧐
 
 
 
