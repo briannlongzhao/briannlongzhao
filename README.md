@@ -1,6 +1,5 @@
 - 👋 @briannlongzhao
 - 📫 briannlongzhao@gmail.com
-- 📫 briannlz@usc.edu
 
 
 
